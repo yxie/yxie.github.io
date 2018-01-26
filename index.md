@@ -61,7 +61,7 @@ layout: default
 
 [C7] Liu, Yuntao, Chongxi Bao, **Yang Xie**, and Ankur Srivastava. "[Introducing TFUE: The trusted foundry and untrusted employee model in IC supply chain security.](http://ieeexplore.ieee.org/abstract/document/8050884/)" In Circuits and Systems (ISCAS), 2017 IEEE International Symposium on, pp. 1-4. IEEE, 2017.
 
-[C6] **Xie, Yang**, and Ankur Srivastava. "[Delay Locking: Security Enhancement of Logic Locking against IC Counterfeiting and Overproduction.](dl.acm.org/citation.cfm?id=3062226)" In Proceedings of the 54th Annual Design Automation Conference 2017, p. 9. ACM, 2017.
+[C6] **Xie, Yang**, and Ankur Srivastava. "[Delay Locking: Security Enhancement of Logic Locking against IC Counterfeiting and Overproduction.](https://dl.acm.org/citation.cfm?id=3062226)" In Proceedings of the 54th Annual Design Automation Conference 2017, p. 9. ACM, 2017.
 
 [C5] **Xie, Yang**, and Ankur Srivastava. "[Mitigating sat attack on logic locking.](https://link.springer.com/chapter/10.1007/978-3-662-53140-2_7)" In International Conference on Cryptographic Hardware and Embedded Systems, pp. 127-146. Springer Berlin Heidelberg, 2016.
 
