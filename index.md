@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/yxie/yxie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [](#header-2)EDUCATION
+### Ph.D., University of Maryland, College Park
+* Electrical and Computer Engineering
+* Expected in May 2018
 
-```markdown
-Syntax highlighted code block
+### B.E., Zhejiang University
+* Electronic and Information Engineering
+* June 2013
 
-# Header 1
-## Header 2
-### Header 3
+### Exchange Program, Univeristy of California, Davis
+* Electrical and Computer Engineering
+* Summer 2012
 
-- Bulleted
-- List
+### Exchange Program, Hong Kong University of Science and Technology
+* Electronic and Computer Engineering
+* Fall 2011
 
-1. Numbered
-2. List
+# [](#header-3)WORK
+### Research Assistant, University of Maryland, College Park
+* Computer/Hardware Security; Electronic Design Automation
+* DEC 2013 - CURRENT
 
-**Bold** and _Italic_ and `Code` text
+### Software Engineer Intern, Facebook
+* Site integrity
+* MAY 2017 - AUG 2017
 
-[Link](url) and ![Image](src)
-```
+### Teaching Assistant, University of Maryland, College Park
+* ENEE 307 Electronic Circuit Laboratory
+* ENEE 303 Analog and Digital Electronics
+* SEP 2013 - MAY 2014
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [](#header-4)PUBLICATION
+### Book Chapter:
 
-### Jekyll Themes
+[B2] Bao, Chongxi, **Yang Xie**, Yuntao Liu, and Ankur Srivastava. "[Reverse Engineering-Based Hardware Trojan Detection.](https://link.springer.com/chapter/10.1007/978-3-319-68511-3_11)" In The Hardware Trojan War, pp. 269-288. Springer, Cham, 2018.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yxie/yxie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[B1] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[3D/2.5 D IC-Based Obfuscation.](https://link.springer.com/chapter/10.1007/978-3-319-49019-9_12)" In Hardware Protection through Obfuscation, pp. 291-314. Springer International Publishing, 2017.
 
-### Support or Contact
+### Journal:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[J4] **Xie, Yang** and Ankur Srivastava. "[Anti-SAT: Mitigating SAT Attack on Logic Locking.]()" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 (Accepted)
+
+[J3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[A Combined Optimization-Theoretic and Side-Channel Approach for Attacking Strong Physical Unclonable Functions.](http://ieeexplore.ieee.org/abstract/document/7924234/)" IEEE Transactions on Very Large Scale Integration (VLSI) Systems (2017).
+
+[J2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-Aware 2.5 D Integrated Circuit Design Flow Against Hardware IP Piracy.](http://ieeexplore.ieee.org/abstract/document/7924234/)" Computer 50, no. 5 (2017): 62-71.
+
+[J1] **Xie, Yang**, Chongxi Bao, Caleb Serafy, Tiantao Lu, Ankur Srivastava, and Mark Tehranipoor. "[Security and vulnerability implications of 3D ICs.](http://ieeexplore.ieee.org/abstract/document/7447803/)" IEEE Transactions on Multi-Scale Computing Systems 2, no. 2 (2016): 108-122.
+
+### Conference/workshop:
+
+[C9] Liu, Yuntao, **Yang Xie**, and Ankur Srivastava. "[Neural trojans.](http://ieeexplore.ieee.org/abstract/document/8119189/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 45-48. IEEE, 2017.
+
+[C8] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[Template Attack Based Deobfuscation of Integrated Circuits.](http://ieeexplore.ieee.org/abstract/document/8119188/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 41-44. IEEE, 2017.
+
+[C7] Liu, Yuntao, Chongxi Bao, **Yang Xie**, and Ankur Srivastava. "[Introducing TFUE: The trusted foundry and untrusted employee model in IC supply chain security.](http://ieeexplore.ieee.org/abstract/document/8050884/)" In Circuits and Systems (ISCAS), 2017 IEEE International Symposium on, pp. 1-4. IEEE, 2017.
+
+[C6] **Xie, Yang**, and Ankur Srivastava. "[Delay Locking: Security Enhancement of Logic Locking against IC Counterfeiting and Overproduction.](dl.acm.org/citation.cfm?id=3062226)" In Proceedings of the 54th Annual Design Automation Conference 2017, p. 9. ACM, 2017.
+
+[C5] **Xie, Yang**, and Ankur Srivastava. "[Mitigating sat attack on logic locking.](https://link.springer.com/chapter/10.1007/978-3-662-53140-2_7)" In International Conference on Cryptographic Hardware and Embedded Systems, pp. 127-146. Springer Berlin Heidelberg, 2016.
+
+[C4] **Xie, Yang**, Chongxi Bao, Yuntao Liu, and Ankur Srivastava. "[2.5 D/3D Integration Technologies for Circuit Obfuscation.](http://ieeexplore.ieee.org/abstract/document/7880821/)" In Microprocessor and SOC Test and Verification (MTV), 2016 17th International Workshop on, pp. 39-44. IEEE, 2016.
+
+[C3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[An optimization-theoretic approach for attacking physical unclonable functions.](http://ieeexplore.ieee.org/abstract/document/7827622/)" In Computer-Aided Design (ICCAD), 2016 IEEE/ACM International Conference on, pp. 1-6. IEEE, 2016.
+
+[C2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-aware design flow for 2.5 D IC technology.](https://dl.acm.org/citation.cfm?id=2808420)" In Proceedings of the 5th International Workshop on Trustworthy Embedded Devices, pp. 31-38. ACM, 2015.
+
+[C1] Bao, Chongxi, **Yang Xie**, and Ankur Srivastava. "[A security-aware design scheme for better hardware Trojan detection sensitivity.](http://ieeexplore.ieee.org/abstract/document/7140236/)" In Hardware Oriented Security and Trust (HOST), 2015 IEEE International Symposium on, pp. 52-55. IEEE, 2015.
