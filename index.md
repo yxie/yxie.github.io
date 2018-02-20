@@ -55,6 +55,8 @@ layout: default
 
 ### Conference/workshop:
 
+[C10] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[GPU Obfuscation: Attack and Defense Strategies.]()" In Proceedings of the 55th Annual Design Automation Conference 2018 (accepted).
+
 [C9] Liu, Yuntao, **Yang Xie**, and Ankur Srivastava. "[Neural trojans.](http://ieeexplore.ieee.org/abstract/document/8119189/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 45-48. IEEE, 2017.
 
 [C8] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[Template Attack Based Deobfuscation of Integrated Circuits.](http://ieeexplore.ieee.org/abstract/document/8119188/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 41-44. IEEE, 2017.
