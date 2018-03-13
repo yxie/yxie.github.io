@@ -78,17 +78,12 @@ layout: default
 
 # [](#header-5)ACADEMIC SERVICES
 ### Journal Reviewer:
-Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-
-Transactions on VLSI Systems (TVLSI)
-
-Transactions on Design Automation of Electronic Systems (TODAES)
-
-Transactions on Information Forensics and Security (TIFS)
-
-Transactions on Dependable and Secure Computing (TDSC)
-
-Transactions on Emerging Topics in Computing (TETC)
+* Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+* Transactions on VLSI Systems (TVLSI)
+* Transactions on Design Automation of Electronic Systems (TODAES)
+* Transactions on Information Forensics and Security (TIFS)
+* Transactions on Dependable and Secure Computing (TDSC)
+* Transactions on Emerging Topics in Computing (TETC)
 
 ### Conference Reviewer:
-International Symposium on Circuits and Systems (ISCAS), 2017-2018
+* International Symposium on Circuits and Systems (ISCAS), 2017-2018
