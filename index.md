@@ -48,15 +48,15 @@ layout: default
 
 [J4] **Xie, Yang** and Ankur Srivastava. "[Anti-SAT: Mitigating SAT Attack on Logic Locking.]()" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 (Accepted)
 
-[J3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[A Combined Optimization-Theoretic and Side-Channel Approach for Attacking Strong Physical Unclonable Functions.](http://ieeexplore.ieee.org/abstract/document/7924234/)" IEEE Transactions on Very Large Scale Integration (VLSI) Systems (2017).
+[J3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[A Combined Optimization-Theoretic and Side-Channel Approach for Attacking Strong Physical Unclonable Functions.](http://ieeexplore.ieee.org/abstract/document/7924234/)" IEEE Transactions on Very Large Scale Integration (TVLSI) Systems (2017).
 
 [J2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-Aware 2.5 D Integrated Circuit Design Flow Against Hardware IP Piracy.](http://ieeexplore.ieee.org/abstract/document/7924234/)" Computer 50, no. 5 (2017): 62-71.
 
-[J1] **Xie, Yang**, Chongxi Bao, Caleb Serafy, Tiantao Lu, Ankur Srivastava, and Mark Tehranipoor. "[Security and vulnerability implications of 3D ICs.](http://ieeexplore.ieee.org/abstract/document/7447803/)" IEEE Transactions on Multi-Scale Computing Systems 2, no. 2 (2016): 108-122.
+[J1] **Xie, Yang**, Chongxi Bao, Caleb Serafy, Tiantao Lu, Ankur Srivastava, and Mark Tehranipoor. "[Security and vulnerability implications of 3D ICs.](http://ieeexplore.ieee.org/abstract/document/7447803/)" IEEE Transactions on Multi-Scale Computing Systems (TMSCS) 2, no. 2 (2016): 108-122.
 
 ### Conference/workshop:
 
-[C10] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[GPU Obfuscation: Attack and Defense Strategies.]()" In Proceedings of the 55th Annual Design Automation Conference 2018 (accepted).
+[C10] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[GPU Obfuscation: Attack and Defense Strategies.]()" In Proceedings of the 55th Annual Design Automation Conference (DAC) 2018 (accepted).
 
 [C9] Liu, Yuntao, **Yang Xie**, and Ankur Srivastava. "[Neural trojans.](http://ieeexplore.ieee.org/abstract/document/8119189/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 45-48. IEEE, 2017.
 
@@ -64,15 +64,15 @@ layout: default
 
 [C7] Liu, Yuntao, Chongxi Bao, **Yang Xie**, and Ankur Srivastava. "[Introducing TFUE: The trusted foundry and untrusted employee model in IC supply chain security.](http://ieeexplore.ieee.org/abstract/document/8050884/)" In Circuits and Systems (ISCAS), 2017 IEEE International Symposium on, pp. 1-4. IEEE, 2017.
 
-[C6] **Xie, Yang**, and Ankur Srivastava. "[Delay Locking: Security Enhancement of Logic Locking against IC Counterfeiting and Overproduction.](https://dl.acm.org/citation.cfm?id=3062226)" In Proceedings of the 54th Annual Design Automation Conference 2017, p. 9. ACM, 2017.
+[C6] **Xie, Yang**, and Ankur Srivastava. "[Delay Locking: Security Enhancement of Logic Locking against IC Counterfeiting and Overproduction.](https://dl.acm.org/citation.cfm?id=3062226)" In Proceedings of the 54th Annual Design Automation Conference (DAC) 2017, p. 9. ACM, 2017.
 
-[C5] **Xie, Yang**, and Ankur Srivastava. "[Mitigating sat attack on logic locking.](https://link.springer.com/chapter/10.1007/978-3-662-53140-2_7)" In International Conference on Cryptographic Hardware and Embedded Systems, pp. 127-146. Springer Berlin Heidelberg, 2016.
+[C5] **Xie, Yang**, and Ankur Srivastava. "[Mitigating sat attack on logic locking.](https://link.springer.com/chapter/10.1007/978-3-662-53140-2_7)" In International Conference on Cryptographic Hardware and Embedded Systems (CHES), pp. 127-146. Springer Berlin Heidelberg, 2016.
 
 [C4] **Xie, Yang**, Chongxi Bao, Yuntao Liu, and Ankur Srivastava. "[2.5 D/3D Integration Technologies for Circuit Obfuscation.](http://ieeexplore.ieee.org/abstract/document/7880821/)" In Microprocessor and SOC Test and Verification (MTV), 2016 17th International Workshop on, pp. 39-44. IEEE, 2016.
 
 [C3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[An optimization-theoretic approach for attacking physical unclonable functions.](http://ieeexplore.ieee.org/abstract/document/7827622/)" In Computer-Aided Design (ICCAD), 2016 IEEE/ACM International Conference on, pp. 1-6. IEEE, 2016.
 
-[C2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-aware design flow for 2.5 D IC technology.](https://dl.acm.org/citation.cfm?id=2808420)" In Proceedings of the 5th International Workshop on Trustworthy Embedded Devices, pp. 31-38. ACM, 2015.
+[C2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-aware design flow for 2.5 D IC technology.](https://dl.acm.org/citation.cfm?id=2808420)" In Proceedings of the 5th International Workshop on Trustworthy Embedded Devices (TRUSTED), pp. 31-38. ACM, 2015.
 
 [C1] Bao, Chongxi, **Yang Xie**, and Ankur Srivastava. "[A security-aware design scheme for better hardware Trojan detection sensitivity.](http://ieeexplore.ieee.org/abstract/document/7140236/)" In Hardware Oriented Security and Trust (HOST), 2015 IEEE International Symposium on, pp. 52-55. IEEE, 2015.
 
