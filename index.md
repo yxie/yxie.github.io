@@ -6,34 +6,35 @@ layout: default
 
 
 # [](#header-2)EDUCATION
-### Ph.D., University of Maryland, College Park
-* Electrical and Computer Engineering
+### University of Maryland, College Park
+* Ph.D., Electrical and Computer Engineering
 * Expected in May 2018
 
-### B.E., Zhejiang University
-* Electronic and Information Engineering
+### Zhejiang University
+* B.E., Electronic and Information Engineering
 * June 2013
 
-### Exchange Program, Univeristy of California, Davis
-* Electrical and Computer Engineering
+### Univeristy of California, Davis
+* Summer Research Program, Electrical and Computer Engineering
 * Summer 2012
 
-### Exchange Program, Hong Kong University of Science and Technology
-* Electronic and Computer Engineering
+### Hong Kong University of Science and Technology
+* Exchange Program, Electronic and Computer Engineering
 * Fall 2011
 
 # [](#header-3)WORK
-### Research Assistant, University of Maryland, College Park
+### University of Maryland, College Park
+* Research Assistant
 * Computer/Hardware Security; Electronic Design Automation
 * DEC 2013 - CURRENT
 
-### Software Engineer Intern, Facebook
+### Facebook
+* Software Engineer Intern
 * Site integrity
 * MAY 2017 - AUG 2017
 
-### Teaching Assistant, University of Maryland, College Park
-* ENEE 307 Electronic Circuit Laboratory
-* ENEE 303 Analog and Digital Electronics
+###  University of Maryland, College Park
+* Teaching Assistant
 * SEP 2013 - MAY 2014
 
 # [](#header-4)PUBLICATION
@@ -74,3 +75,20 @@ layout: default
 [C2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-aware design flow for 2.5 D IC technology.](https://dl.acm.org/citation.cfm?id=2808420)" In Proceedings of the 5th International Workshop on Trustworthy Embedded Devices, pp. 31-38. ACM, 2015.
 
 [C1] Bao, Chongxi, **Yang Xie**, and Ankur Srivastava. "[A security-aware design scheme for better hardware Trojan detection sensitivity.](http://ieeexplore.ieee.org/abstract/document/7140236/)" In Hardware Oriented Security and Trust (HOST), 2015 IEEE International Symposium on, pp. 52-55. IEEE, 2015.
+
+# [](#header-5)ACADEMIC SERVICES
+### Journal Reviewer:
+Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+
+Transactions on VLSI Systems (TVLSI)
+
+Transactions on Design Automation of Electronic Systems (TODAES)
+
+Transactions on Information Forensics and Security (TIFS)
+
+Transactions on Dependable and Secure Computing (TDSC)
+
+Transactions on Emerging Topics in Computing (TETC)
+
+### Conference Reviewer:
+International Symposium on Circuits and Systems (ISCAS), 2017-2018
