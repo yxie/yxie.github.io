@@ -84,7 +84,7 @@ layout: default
 * Transactions on Information Forensics and Security (TIFS)
 * Transactions on Dependable and Secure Computing (TDSC)
 * Transactions on Emerging Topics in Computing (TETC)
-* Journal Of Electronic Testing: Theory and Applications (JETTA)
+* Journal of Electronic Testing: Theory and Applications (JETTA)
 
 ### Conference Reviewer:
 * International Symposium on Circuits and Systems (ISCAS), 2017-2018
