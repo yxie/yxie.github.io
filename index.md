@@ -5,28 +5,31 @@ layout: default
 
 # WELCOME TO YANG XIE'S WEBSITE
 
-## __EDUCATION__
+## NEWS
+I will join Facebook Inc. as a Research Scientist in June 2018.
+
+## EDUCATION
 ### University of Maryland, College Park
 * Ph.D., Electrical and Computer Engineering
-* Expected in May 2018
+* AUG 2013 - MAY 2018
 
 ### Zhejiang University
 * B.E., Electronic and Information Engineering
-* June 2013
+* SEP 2009 - JUNE 2013
 
 ### Univeristy of California, Davis
 * Summer Research Program, Electrical and Computer Engineering
-* Summer 2012
+* SUMMER 2012
 
 ### Hong Kong University of Science and Technology
 * Exchange Program, Electronic and Computer Engineering
-* Fall 2011
+* FALL 2011
 
-## __WORK__
+## WORK
 ### University of Maryland, College Park
 * Research Assistant
 * Computer/Hardware Security; Electronic Design Automation
-* DEC 2013 - CURRENT
+* DEC 2013 - MAY 2018
 
 ### Facebook
 * Software Engineer Intern
@@ -37,10 +40,11 @@ layout: default
 * Teaching Assistant
 * SEP 2013 - MAY 2014
 
-## __PUBLICATION__
+## PUBLICATION
 ### Book Chapter:
+[B3] Bao, Chongxi, **Yang Xie**, Yuntao Liu, and Ankur Srivastava. "[Reverse Engineering-Based Hardware Trojan Detection.](https://link.springer.com/chapter/10.1007/978-3-319-68511-3_11)" In The Hardware Trojan War, pp. 269-288. Springer, Cham, 2018.
 
-[B2] Bao, Chongxi, **Yang Xie**, Yuntao Liu, and Ankur Srivastava. "[Reverse Engineering-Based Hardware Trojan Detection.](https://link.springer.com/chapter/10.1007/978-3-319-68511-3_11)" In The Hardware Trojan War, pp. 269-288. Springer, Cham, 2018.
+[B2] Yuntao Liu, **Yang Xie**, and Ankur Srivastava. "[Security in Emerging Fabrication Technologies](https://www.taylorfrancis.com/books/9781351965903)" In Security Opportunities in Nano Devices and Emerging Technologies (Chapter 11), CRC Press, 2017
 
 [B1] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[3D/2.5 D IC-Based Obfuscation.](https://link.springer.com/chapter/10.1007/978-3-319-49019-9_12)" In Hardware Protection through Obfuscation, pp. 291-314. Springer International Publishing, 2017.
 
@@ -76,7 +80,7 @@ layout: default
 
 [C1] Bao, Chongxi, **Yang Xie**, and Ankur Srivastava. "[A security-aware design scheme for better hardware Trojan detection sensitivity.](http://ieeexplore.ieee.org/abstract/document/7140236/)" In Hardware Oriented Security and Trust (HOST), 2015 IEEE International Symposium on, pp. 52-55. IEEE, 2015.
 
-## __ACADEMIC SERVICES__
+## ACADEMIC SERVICES
 ### Journal Reviewer:
 * Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * Transactions on VLSI Systems (TVLSI)
@@ -85,6 +89,18 @@ layout: default
 * Transactions on Dependable and Secure Computing (TDSC)
 * Transactions on Emerging Topics in Computing (TETC)
 * Journal of Electronic Testing: Theory and Applications (JETTA)
+* Transactions on Embedded Computing Systems (TECS)
 
 ### Conference Reviewer:
 * International Symposium on Circuits and Systems (ISCAS), 2017-2018
+
+## MY GROUP @ UMD
+* [IDEA Lab](http://srivastava.umd.edu/)
+* [Prof. Ankur Srivastava](http://srivastava.umd.edu/people/professor/)
+* [Dr. Caleb Serafy](https://sites.google.com/site/cserafy1/)
+* [Dr. Tiantao Lu](https://sites.google.com/site/lutiantao/)
+* [Dr. Chongxi Bao](https://www.linkedin.com/in/chongxi/)
+* [Dr. Zhiyuan Yang](http://ece.umd.edu/~zyyang/)
+* [Yuntao Liu](http://ece.umd.edu/~ytliu/)
+* [Abhishek Chakraborty](http://ece.umd.edu/~abhi1990/abhishek.chakraborty.html)
+* [Ankit Mondal](http://ankitmondal100.wixsite.com/ankit-mondal)
