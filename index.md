@@ -3,9 +3,13 @@ layout: default
 ---
 
 
+# WELCOME TO YANG XIE'S WEBSITE
+[EDUCATION](#EDUCATION)
+[WORK](#WORK)
+[PUBLICATION](#PUBLICATION)
+[ACADEMIC SERVICES](#ACADEMIC)
 
-
-# [](#header-2)EDUCATION
+## EDUCATION
 ### University of Maryland, College Park
 * Ph.D., Electrical and Computer Engineering
 * Expected in May 2018
@@ -22,7 +26,7 @@ layout: default
 * Exchange Program, Electronic and Computer Engineering
 * Fall 2011
 
-# [](#header-3)WORK
+## WORK
 ### University of Maryland, College Park
 * Research Assistant
 * Computer/Hardware Security; Electronic Design Automation
@@ -37,7 +41,7 @@ layout: default
 * Teaching Assistant
 * SEP 2013 - MAY 2014
 
-# [](#header-4)PUBLICATION
+## PUBLICATION
 ### Book Chapter:
 
 [B2] Bao, Chongxi, **Yang Xie**, Yuntao Liu, and Ankur Srivastava. "[Reverse Engineering-Based Hardware Trojan Detection.](https://link.springer.com/chapter/10.1007/978-3-319-68511-3_11)" In The Hardware Trojan War, pp. 269-288. Springer, Cham, 2018.
@@ -76,7 +80,7 @@ layout: default
 
 [C1] Bao, Chongxi, **Yang Xie**, and Ankur Srivastava. "[A security-aware design scheme for better hardware Trojan detection sensitivity.](http://ieeexplore.ieee.org/abstract/document/7140236/)" In Hardware Oriented Security and Trust (HOST), 2015 IEEE International Symposium on, pp. 52-55. IEEE, 2015.
 
-# [](#header-5)ACADEMIC SERVICES
+## ACADEMIC SERVICES
 ### Journal Reviewer:
 * Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * Transactions on VLSI Systems (TVLSI)
