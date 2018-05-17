@@ -5,8 +5,7 @@ layout: default
 
 # WELCOME TO YANG XIE'S WEBSITE
 
-## NEWS
-I will join Facebook Inc. as a Research Scientist in June 2018.
+`[NEWS]` I will join Facebook Inc. as a Research Scientist in June 2018.
 
 ## EDUCATION
 ### University of Maryland, College Park
