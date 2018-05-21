@@ -49,9 +49,9 @@ layout: default
 
 ### Journal:
 
-[J4] **Xie, Yang** and Ankur Srivastava. "[Anti-SAT: Mitigating SAT Attack on Logic Locking.]()" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 (Accepted)
+[J4] **Xie, Yang** and Ankur Srivastava. "[Anti-SAT: Mitigating SAT Attack on Logic Locking.](https://ieeexplore.ieee.org/abstract/document/8279462/)" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018 
 
-[J3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[A Combined Optimization-Theoretic and Side-Channel Approach for Attacking Strong Physical Unclonable Functions.](http://ieeexplore.ieee.org/abstract/document/7924234/)" IEEE Transactions on Very Large Scale Integration (TVLSI) Systems (2017).
+[J3] Liu, Yuntao, **Yang Xie**, Chongxi Bao, and Ankur Srivastava. "[A Combined Optimization-Theoretic and Side-Channel Approach for Attacking Strong Physical Unclonable Functions.](https://ieeexplore.ieee.org/abstract/document/8074790/)" IEEE Transactions on Very Large Scale Integration (TVLSI) Systems (2017).
 
 [J2] **Xie, Yang**, Chongxi Bao, and Ankur Srivastava. "[Security-Aware 2.5 D Integrated Circuit Design Flow Against Hardware IP Piracy.](http://ieeexplore.ieee.org/abstract/document/7924234/)" Computer 50, no. 5 (2017): 62-71.
 
@@ -81,6 +81,7 @@ layout: default
 
 ## ACADEMIC SERVICES
 ### Journal Reviewer:
+* Transactions on Computers (TC)
 * Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * Transactions on VLSI Systems (TVLSI)
 * Transactions on Design Automation of Electronic Systems (TODAES)
