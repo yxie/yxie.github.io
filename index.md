@@ -4,6 +4,9 @@ layout: default
 
 
 # WELCOME TO YANG XIE'S WEBSITE
+[[Google Scholar]](https://scholar.google.com/citations?user=x0zLYBYAAAAJ&hl=en&oi=ao) 
+[[Github]](https://github.com/yxie/) 
+[[Linkedin]](https://www.linkedin.com/in/yang-xie-05844076/)
 
 `[NEWS]` I joined Facebook as a Research Scientist! Excited!
 
