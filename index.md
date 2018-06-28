@@ -5,7 +5,7 @@ layout: default
 
 # WELCOME TO YANG XIE'S WEBSITE
 
-`[NEWS]` I will join Facebook Inc. as a Research Scientist in June 2018.
+`[NEWS]` I joined Facebook as a Research Scientist! Excited!
 
 ## EDUCATION
 ### University of Maryland, College Park
@@ -59,7 +59,7 @@ layout: default
 
 ### Conference/workshop:
 
-[C10] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[GPU Obfuscation: Attack and Defense Strategies.]()" In Proceedings of the 55th Annual Design Automation Conference (DAC) 2018 (accepted).
+[C10] Chakraborty, Abhishek, **Yang Xie**, and Ankur Srivastava. "[GPU Obfuscation: Attack and Defense Strategies.](https://dl.acm.org/citation.cfm?id=3196058)" In Proceedings of the 55th Annual Design Automation Conference (DAC) 2018 (accepted).
 
 [C9] Liu, Yuntao, **Yang Xie**, and Ankur Srivastava. "[Neural trojans.](http://ieeexplore.ieee.org/abstract/document/8119189/)" In Computer Design (ICCD), 2017 IEEE International Conference on, pp. 45-48. IEEE, 2017.
 
