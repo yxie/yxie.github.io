@@ -12,7 +12,7 @@ layout: default
 
 ## EDUCATION
 ### University of Maryland, College Park
-* Ph.D., Electrical and Computer Engineering
+* Ph.D./M.S., Electrical and Computer Engineering
 * AUG 2013 - MAY 2018
 
 ### Zhejiang University
