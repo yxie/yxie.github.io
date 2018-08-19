@@ -8,7 +8,7 @@ layout: default
 [[Github]](https://github.com/yxie/) 
 [[Linkedin]](https://www.linkedin.com/in/yang-xie-05844076/)
 
-`[NEWS]` I joined Facebook as a Research Scientist! Excited!
+`[NEWS]` I joined **Facebook Marketplace Integrity** team. Social network + E-commerce + Security/integrity, what an interesting combination!
 
 ## EDUCATION
 ### University of Maryland, College Park
@@ -28,6 +28,11 @@ layout: default
 * FALL 2011
 
 ## WORK
+### Facebook
+* Research Scientist
+* Marketplace Integrity
+* JUN 2017 - Now
+
 ### University of Maryland, College Park
 * Research Assistant
 * Computer/Hardware Security; Electronic Design Automation
