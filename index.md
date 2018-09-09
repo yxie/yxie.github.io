@@ -99,6 +99,7 @@ layout: default
 * Transactions on Embedded Computing Systems (TECS)
 * Journal of Electronic Testing: Theory and Applications (JETTA)
 * Journal of Hardware and Systems Security (HaSS)
+* IEEE Internet of Things Journal (IoT)
 
 ### Conference Reviewer:
 * International Symposium on Circuits and Systems (ISCAS), 2017-2018
