@@ -10,6 +10,26 @@ layout: default
 
 `[NEWS]` I joined **Facebook Marketplace Integrity** team. Social network + E-commerce + Security/integrity, what an interesting combination!
 
+## WORK
+### Facebook
+* Research Scientist
+* Marketplace Integrity
+* JUN 2018 - Now
+
+### University of Maryland, College Park
+* Research Assistant
+* Computer/Hardware Security; Electronic Design Automation
+* DEC 2013 - MAY 2018
+
+### Facebook
+* Software Engineer Intern
+* Site integrity
+* MAY 2017 - AUG 2017
+
+###  University of Maryland, College Park
+* Teaching Assistant
+* SEP 2013 - MAY 2014
+
 ## EDUCATION
 ### University of Maryland, College Park
 * Ph.D./M.S., Electrical and Computer Engineering
@@ -26,26 +46,6 @@ layout: default
 ### Hong Kong University of Science and Technology
 * Exchange Program, Electronic and Computer Engineering
 * FALL 2011
-
-## WORK
-### Facebook
-* Research Scientist
-* Marketplace Integrity
-* JUN 2017 - Now
-
-### University of Maryland, College Park
-* Research Assistant
-* Computer/Hardware Security; Electronic Design Automation
-* DEC 2013 - MAY 2018
-
-### Facebook
-* Software Engineer Intern
-* Site integrity
-* MAY 2017 - AUG 2017
-
-###  University of Maryland, College Park
-* Teaching Assistant
-* SEP 2013 - MAY 2014
 
 ## PUBLICATION
 ### Book Chapter:
